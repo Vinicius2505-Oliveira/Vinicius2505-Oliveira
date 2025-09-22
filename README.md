@@ -10,16 +10,17 @@
 ## 🗂️ Projetos em Destaque  
 
 - [📚 Sistema de Biblioteca (POO em Python)](https://github.com/Vinicius2505-Oliveira/sistema-biblioteca-poo-python)  
-- [🛒 Sistema de Vendas (POO em Python)](https://github.com/Vinicius2505-Oliveira/sistema-vendas-poo-python)  
+- [🛒 Sistema de Vendas (POO em Python)]((https://github.com/Vinicius2505-Oliveira/sistema-vendas-flask))
 
 ---
 
 ## ⚙️ Tecnologias que estou aprendendo
-- Python  
+- Python
+- FullStack  
 - Orientação a Objetos (POO)  
 - Git & GitHub  
 - Bancos de Dados (SQLite, PostgreSQL)  
-- Desenvolvimento Web (Flask / Django em breve)  
+- Desenvolvimento Web (Flask / Django)  
 
 ---
 
