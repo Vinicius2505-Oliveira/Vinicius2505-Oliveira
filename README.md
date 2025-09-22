@@ -9,8 +9,8 @@
 
 ## 🗂️ Projetos em Destaque  
 
-- [📚 Sistema de Biblioteca (POO em Python)](https://github.com/seu-usuario/sistema-biblioteca-poo-python)  
-- [🛒 Sistema de Vendas (POO em Python)](https://github.com/seu-usuario/sistema-vendas-poo-python)  
+- [📚 Sistema de Biblioteca (POO em Python)](https://github.com/Vinicius2505-Oliveira/sistema-biblioteca-poo-python)  
+- [🛒 Sistema de Vendas (POO em Python)](https://github.com/Vinicius2505-Oliveira/sistema-vendas-poo-python)  
 
 ---
 
