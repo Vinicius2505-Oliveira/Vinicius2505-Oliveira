@@ -47,5 +47,5 @@ Atualmente estou **aprendendo Fullstack Development** na Digital College, focand
 ---
 
 ## 📫 Contato
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu-linkedin)
+- LinkedIn: [vinicius-oliveira-devbr](https://www.linkedin.com/in/vinicius-oliveira-devbr)
 - GitHub: [Vinicius2505-Oliveira](https://github.com/Vinicius2505-Oliveira)
