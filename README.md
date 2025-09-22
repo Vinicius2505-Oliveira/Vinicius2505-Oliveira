@@ -1,45 +1,51 @@
-# 👋 Olá, eu sou Vinícius de Oliveira Silva  
+# Olá, eu sou o Vinícius 👋
 
-🎓 Estudante de Ciência da Computação (4º semestre)  
-💻 Focado em Desenvolvimento Full Stack / Python  
-📚 Atualmente desenvolvendo projetos em **POO com Python**  
-🚀 Buscando vaga de **Estágio em Desenvolvimento de Software**
+Sou estudante de **Ciências da Computação** e desenvolvedor Python em início de carreira.  
+Atualmente estou **aprendendo Fullstack Development** na Digital College, focando em criar projetos completos que conectem **front-end e back-end**.
 
 ---
 
-## 🗂️ Projetos em Destaque  
+## 🛠 Tecnologias e habilidades
 
-- [📚 Sistema de Biblioteca (POO em Python)](https://github.com/Vinicius2505-Oliveira/sistema-biblioteca-poo-python)  
-- [🛒 Sistema de Vendas (POO em Python)]((https://github.com/Vinicius2505-Oliveira/sistema-vendas-flask))
+### 💻 Linguagens de programação
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🌐 Desenvolvimento Web
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🗄 Banco de Dados
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ⚙️ Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## ⚙️ Tecnologias que estou aprendendo
-- Python
-- FullStack  
-- Orientação a Objetos (POO)  
-- Git & GitHub  
-- Bancos de Dados (SQLite, PostgreSQL)  
-- Desenvolvimento Web (Flask / Django)  
+## 🔹 Projetos em destaque
+
+### 🛒 Sistema de Vendas Web
+- CRUD de produtos, clientes e pedidos
+- Controle automático de estoque
+- Interface web responsiva usando **Flask + Bootstrap + SQLite**
+[🔗 Ver no GitHub](https://github.com/Vinicius2505-Oliveira/sistema-vendas-flask)
+
+### 💡 Próximos projetos
+- Aplicações Fullstack **aprendendo React + Flask/Django**
+- APIs REST completas e integração front-end/back-end
+- Projetos de aprendizado para reforçar POO e estruturas de dados
 
 ---
 
-## 📬 Como me encontrar
-- [LinkedIn](https://www.linkedin.com/in/vinicius-oliveira-devbr)  
-- 📧 Email: vo381815@gmail.com
-
-
-<!--
-**Vinicius2505-Oliveira/Vinicius2505-Oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu-linkedin)
+- GitHub: [Vinicius2505-Oliveira](https://github.com/Vinicius2505-Oliveira)
